@@ -1,7 +1,7 @@
 # 🔑 Login Page (HTML + CSS)
 
 A simple **responsive login page** built with **HTML & CSS only**.  
-Designed with **mobile-first approach** and optimized for **desktop view**.  
+Designed with **mobile-first approach** and optimized for **desktop view** 
 📱 Mobile + 💻 Desktop supported (❌ No tablet design).
 
 ---
